@@ -1,0 +1,24 @@
+hi
+hey
+hello
+
+PS C:\Users\akshi\OneDrive\Desktop\web dev cohort> git branch feature-about
+PS C:\Users\akshi\OneDrive\Desktop\web dev cohort> git checkout feature-about
+M       WORKSHEET/GIT PRACTICE/login.html
+A       WORKSHEET/GIT PRACTICE/squash.txt
+Switched to branch 'feature-about'
+PS C:\Users\akshi\OneDrive\Desktop\web dev cohort> git add .
+PS C:\Users\akshi\OneDrive\Desktop\web dev cohort> git commit -m "added"
+[feature-about ca2da0f] added
+ 1 file changed, 3 insertions(+), 1 deletion(-)
+PS C:\Users\akshi\OneDrive\Desktop\web dev cohort> git branch
+* feature-about
+  feature-login
+  master
+PS C:\Users\akshi\OneDrive\Desktop\web dev cohort> git checkout master
+Switched to branch 'master'
+PS C:\Users\akshi\OneDrive\Desktop\web dev cohort> git branch
+  feature-about
+  feature-login
+* master
+PS C:\Users\akshi\OneDrive\Desktop\web dev cohort> 

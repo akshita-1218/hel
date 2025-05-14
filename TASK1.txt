@@ -1,0 +1,23 @@
+HEY
+
+PS C:\Users\akshi\OneDrive\Desktop\web dev cohort> git init
+Initialized empty Git repository in C:/Users/akshi/OneDrive/Desktop/WEB DEV COHORT/.git/
+PS C:\Users\akshi\OneDrive\Desktop\web dev cohort> git add .
+PS C:\Users\akshi\OneDrive\Desktop\web dev cohort> git commit -m "added"
+[master (root-commit) 1a974f9] added
+ 3 files changed, 28 insertions(+)
+ create mode 100644 WORKSHEET/A.txt
+ create mode 100644 WORKSHEET/B.txt
+ create mode 100644 WORKSHEET/GIT PRACTICE/TASK1.txt
+PS C:\Users\akshi\OneDrive\Desktop\web dev cohort> git status
+On branch master
+nothing to commit, working tree clean
+PS C:\Users\akshi\OneDrive\Desktop\web dev cohort> git log
+commit 1a974f92bbe1a685e45681e3096f716b732e8713 (HEAD -> master)
+Author: akshita-1218 <akshitasharma8088@gmailcom>
+Date:   Wed May 14 18:58:36 2025 +0530
+
+    added
+PS C:\Users\akshi\OneDrive\Desktop\web dev cohort> git log --oneline
+1a974f9 (HEAD -> master) added
+PS C:\Users\akshi\OneDrive\Desktop\web dev cohort> 

@@ -1,0 +1,9 @@
+Ans 1:- VCS simply controls the versions and shift from one version to another if any issue found.
+Ans 2:- Centralised VCS uses server to store all the version and can be corrupt and cause loss of data. Distributed VCS has both locally and centralised vcs and each developer has all version code.
+Ans 3:- Git is a distributed VCS and github is a place where you can store your code online, collaborate with others, and keep track of who made what changes.
+Ans 4:- Stagging area in Git
+Ans 5:- Git creates a hidden folder .git This folder contains all the internal data Git uses to track code history.
+Ans 6:- Git brnching creates a duplicate copy of a main branch to contain data that is not suitable to store in main branch , the command to create new branch is [git branch <branchname>] and to switching from one branch to another [ git checkout branchname ].
+Ans 7:- Git reset moves head from commit id and git reset --hard not only moves the head but also permanently deletes the commit id also.
+Ans 8:- Squash merge combines all the small commits into one single commit when merging into main branch.
+Ans 9:- 
