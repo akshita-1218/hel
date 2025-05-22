@@ -6,4 +6,3 @@ Ans 5:- Git creates a hidden folder .git This folder contains all the internal d
 Ans 6:- Git brnching creates a duplicate copy of a main branch to contain data that is not suitable to store in main branch , the command to create new branch is [git branch <branchname>] and to switching from one branch to another [ git checkout branchname ].
 Ans 7:- Git reset moves head from commit id and git reset --hard not only moves the head but also permanently deletes the commit id also.
 Ans 8:- Squash merge combines all the small commits into one single commit when merging into main branch.
-Ans 9:- 
