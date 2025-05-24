@@ -11,6 +11,3 @@
 // }
 // [Running] node "c:\Users\akshi\OneDrive\Desktop\WEB dev cohort\JAVASCRIPT\basicsofjs\STRING\WORKSHEET ON STRING\G.js"
 // It is a palindrome.
-
-
-

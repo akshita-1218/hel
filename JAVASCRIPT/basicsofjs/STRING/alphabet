@@ -1,7 +1,0 @@
-let a = 49
-if (a>99 && a<100){
-    console.log("3 digit")
-}
-else{
-    console.log("not 3 digit")
-}

@@ -22,5 +22,3 @@
 // console.log(sentence.includes("Backend"));
 // [Running] node "c:\Users\akshi\OneDrive\Desktop\WEB dev cohort\JAVASCRIPT\basicsofjs\STRING\WORKSHEET ON STRING\D.js"
 // true
-
-

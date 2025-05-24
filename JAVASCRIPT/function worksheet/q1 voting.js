@@ -7,4 +7,3 @@ function voting(age){
     }
 }
 voting(19)
-

@@ -48,9 +48,3 @@
 // console.log(string.split(", "))
 // [Running] node "c:\Users\akshi\OneDrive\Desktop\WEB dev cohort\JAVASCRIPT\basicsofjs\STRING\WORKSHEET ON STRING\f.js"
 // [ 'apple', 'banana', 'grape' ]
-
-
-
-
-
-
